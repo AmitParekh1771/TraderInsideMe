@@ -1,0 +1,10 @@
+/
+/about
+/article
+/privacy-policy
+/cookie-policy
+/terms
+/blog/is-forex-trading-legal-in-india
+/blog/how-to-minimize-losses-in-intraday-trading
+/blog/chart-patterns-dont-work-in-live-market
+/not-found
